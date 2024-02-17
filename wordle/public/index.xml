@@ -7,5 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://wordle.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wordle Game</title>
+      <link>https://wordle.github.io/wordle/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://wordle.github.io/wordle/</guid>
+      <description>{{ partial &amp;ldquo;wordle.html&amp;rdquo; . }}</description>
+    </item>
   </channel>
 </rss>
